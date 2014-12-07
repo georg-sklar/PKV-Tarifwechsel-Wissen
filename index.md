@@ -1,5 +1,3 @@
-<div data-lift="https://pkvwissen.telegr.am/" class="fruit_bat">Tarifwechsel in Privater Krankenversicherung</div>
-
 #### Sind Sie privat krankenversichert und haben Interesse an einem Tarifwechsel? 
 
 Drei Webseiten sollten Sie kennen:
