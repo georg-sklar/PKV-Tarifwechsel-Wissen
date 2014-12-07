@@ -21,7 +21,7 @@ Lesen Sie selber unter diesem <a href="http://www.minerva-kundenrechte.de/das-un
 </ul>
 Lesen Sie selber unter diesem <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Link</a>.
 
-#### 3. <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner Webseite <a href="www.minerva-kundenrechte.de?ref=TelegramGS">www.minerva-kundenrechte.de</a>
+#### 3. <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner<a href="www.minerva-kundenrechte.de?ref=TelegramGS">Webseite</a>
 <ul>
   <li>Der este <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Rechtsberater für PKV-Kunden in Deutschland.
   <li>Notwendige <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Expertise und mehr als 25 Jahre Insider- und Führungserfahrung in verschiedenen Versicherungsunternehmen.
@@ -38,5 +38,5 @@ Erfahren Sie mehr unter diesem <a href="http://www.minerva-kundenrechte.de/unser
 
 Wenn Sie privat krankenversichert sind und Ihr Beitrag ist stark gestiegen, handeln Sie besser bald. 
 Ihr PKV-Versicherer wünscht allerdings, dass Sie nicht handeln und Beitrag über Beitrag weiter überweisen.
-Seien Sie schlauer.
+Seien Sie schlau.
 
