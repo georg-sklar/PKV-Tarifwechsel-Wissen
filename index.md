@@ -1,3 +1,4 @@
+site-title: Tarifwechsel in Privater Krankenversicherung
 title: Tarifwechsel in Privater Krankenversicherung
 menu: Tarifwechsel in Privater Krankenversicherung
 
