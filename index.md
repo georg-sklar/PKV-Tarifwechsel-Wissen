@@ -21,7 +21,7 @@ Lesen Sie selber unter diesem <a href="http://www.brandeins.de/archiv/2014/im-in
   <li>Ein Tarifwechsel lohnt sich vor allem für ältere, langjährig PKV-Versicherte.
   <li>Beim Tarifwechsel brauchen Sie die Hilfe eines Versicherungsberaters.
   <li>Wählen Sie für ein erfolgsabhängiges Honorar den Versicherungsberater 
-  <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Minerva KundenRechte</a>.
+  <a href="http://www.minerva-kundenrechte.de" target="_blank">Minerva KundenRechte</a>.
 </ul>
 Lesen Sie selber unter diesem <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Link</a>.
 
