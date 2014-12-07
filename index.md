@@ -1,6 +1,3 @@
-title: Tarifwechsel in privater Krankenversicherung
-<div data-lift="title">Post :: <div data-lift="menu.title">Tarifwechsel in privater Krankenversicherung</div></div>
-
 #### Sind Sie privat krankenversichert und haben Interesse an einem Tarifwechsel? 
 
 Drei Webseiten sollten Sie kennen:
