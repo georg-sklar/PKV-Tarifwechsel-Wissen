@@ -4,8 +4,10 @@ Drei Webseiten sollten Sie kennen:
 
 #### 1. <a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank">Hintergründe</a> zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:
 <ul>
+  <li>Beitragssteigerungen, die über Jahre hinaus deutlich über der medizinisch-technischen Inflationsrate von vier Prozent liegen, ist ein klarer Hinweis auf ein erodierendes Tarifkollektiv.
+  <li>Versicherungen haben das Thema lange Zeit totgeschwiegen.
   <li>Es gibt viele Tarifoptimierer, ihr Honorar bemisst sich am erzielten Erfolg und liegt zwischen einer halben und einer ganzen Jahresersparnis.
-  <li>Viele ehemalige Makler, die wegen des zuletzt flauen Geschäftes kaum noch Neukunden finden, und im Tarifwechsel eine Chance sehen.
+  <li>Viele ehemalige Makler, die wegen des zuletzt flauen Geschäftes kaum noch Neukunden finden, sehen im Tarifwechsel eine Chance.
   <li>Die Ex-Makler verfügen nicht über Kenntnisse in Versicherungsmathematik.
   <li>Fordern Sie ein schriftliches Gutachten.
   <li>Empfohlene Tarife sollen nicht nur günstiger, sondern auch langfristig beitragsstabil sein.
