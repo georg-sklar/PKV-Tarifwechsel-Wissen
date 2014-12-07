@@ -2,15 +2,16 @@
 
 Drei Webseiten sollten Sie kennen:
 
-#### 1. <a href="http://www.minerva-kundenrechte.de/das-unternehmen/pressespiegel?ref=TelegramGS" target="_blank">Hintergründe</a> zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:
+#### 1. <a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank">Hintergründe</a> zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:
 <ul>
-  <li><a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel/?ref=TelegramGS" target="_blank">brand eins</a>
-  <li><a href="http://www.minerva-kundenrechte.de/presse/SZ20130208_PKV_Tarifwechsel.pdf?ref=TelegramGS" target="_blank">Süddeutsche Zeitung</a>
-  <li><a href="http://www.cash-online.de/versicherungen/2012/unisex-tarife-10/90598?ref=TelegramGS" target="_blank">Cach.ONLINE</a>
-  <li><a href="http://www.handelsblatt.com/finanzen/vorsorge-versicherung/nachrichten/privatpatienten-vorsicht-neue-provisionsjaeger-in-der-pkv-seite-all/9248432-all.html?ref=TelegramGS" target="_blank">Handelsblatt</a>
-  <li><a href="http://www.focus.de/finanzen/versicherungen/krankenversicherung/tid-31715/tarifwechsel-in-der-privaten-krankenversicherung-beitragswahnsinn-in-der-pkv-so-kommen-versicherte-in-guenstigere-tarife_aid_1007745.html?ref=TelegramGS" target="_blank">FOCUS Online</a>
+  <li>Es gibt viele Tarifoptimierer, ihr Honorar bemisst sich am erzielten Erfolg und liegt zwischen einer halben und einer ganzen Jahresersparnis.
+  <li>Viele ehemalige Makler sind dabei, die wegen des zuletzt flauen Geschäftes kaum noch Neuverträge an den Mann bringen und im Tarifwechsel eine Chance sehen.
+  <li>Das schnelle Geld mit der Beitragsersparnis zieht Ex-Makler an, die nicht über Kenntnisse in Versicherungsmathematik verfügen.
+  <li>Fordern Sie ein schriftliches Gutachten.
+  <li>Empfohlene Tarife sollen nicht nur günstiger, sondern auch langfristig beitragsstabil sein.
 </ul>
-Lesen Sie selber unter diesem <a href="http://www.minerva-kundenrechte.de/das-unternehmen/pressespiegel?ref=TelegramGS" target="_blank">Link</a>.
+
+Lesen Sie selber unter diesem <a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank">Link</a>.
 
 #### 2. <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:
 <ul>
