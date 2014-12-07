@@ -1,4 +1,4 @@
-<div data-lift="site.name" class="fruit_bat">Tarifwechsel in Privater Krankenversicherung</div>
+<div data-lift="https://pkvwissen.telegr.am/" class="fruit_bat">Tarifwechsel in Privater Krankenversicherung</div>
 
 #### Sind Sie privat krankenversichert und haben Interesse an einem Tarifwechsel? 
 
