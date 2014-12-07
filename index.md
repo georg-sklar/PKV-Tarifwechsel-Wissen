@@ -12,16 +12,17 @@ Drei Webseiten sollten Sie kennen:
 </ul>
 Lesen Sie selber unter diesem <a href="http://www.minerva-kundenrechte.de/das-unternehmen/pressespiegel?ref=TelegramGS" target="_blank">Link</a>.
 
-#### 2. <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:
+#### 2. <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:
 <ul>
   <li>Durch einen Tarifwechsel können Sie Ihre Beiträge eventuell deutlich senken, ohne auf wichtige Leistungen zu verzichten.
   <li>Ein Tarifwechsel lohnt sich vor allem für ältere, langjährig PKV-Versicherte.
   <li>Beim Tarifwechsel brauchen Sie die Hilfe eines Versicherungsberaters.
-  <li>Wählen Sie für ein erfolgsabhängiges Honorar den Versicherungsberater <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Minerva KundenRechte</a>.
+  <li>Wählen Sie für ein erfolgsabhängiges Honorar den Versicherungsberater 
+  <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Minerva KundenRechte</a>.
 </ul>
-Lesen Sie selber unter diesem <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Link</a>.
+Lesen Sie selber unter diesem <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Link</a>.
 
-#### 3. <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner<a href="www.minerva-kundenrechte.de?ref=TelegramGS">Webseite</a>
+#### 3. <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner <a href="www.minerva-kundenrechte.de?ref=TelegramGS">Webseite</a>
 <ul>
   <li>Der este <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Rechtsberater für PKV-Kunden in Deutschland.
   <li>Notwendige <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Expertise und mehr als 25 Jahre Insider- und Führungserfahrung in verschiedenen Versicherungsunternehmen.
