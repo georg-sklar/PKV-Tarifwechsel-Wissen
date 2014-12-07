@@ -25,7 +25,7 @@ Lesen Sie selber unter diesem <a href="http://www.brandeins.de/archiv/2014/im-in
 </ul>
 Lesen Sie selber unter diesem <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Link</a>.
 
-#### 3. <a href="http://minerva-kundenrechte.de/finanztip?ref=TelegramGS" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner <a href="www.minerva-kundenrechte.de?ref=TelegramGS">Webseite</a>
+#### 3. <a href="http://www.minerva-kundenrechte.de" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner <a href="http://www.minerva-kundenrechte.de">Webseite</a>
 <ul>
   <li>Der este <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Rechtsberater für PKV-Kunden in Deutschland.
   <li>Notwendige <a href="http://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Expertise und mehr als 25 Jahre Insider- und Führungserfahrung in verschiedenen Versicherungsunternehmen.
