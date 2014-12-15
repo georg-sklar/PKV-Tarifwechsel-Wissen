@@ -1,4 +1,4 @@
-<title>Tarifwechsel in privater Krankenversicherung
+<title>Tarifwechsel in privater Krankenversicherung</title>
 
 #### Sind Sie privat krankenversichert und haben Interesse an einem Tarifwechsel? 
 
