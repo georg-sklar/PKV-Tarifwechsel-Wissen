@@ -1,16 +1,20 @@
+<head_merge>
+<title>Tarifwechsel in privater Krankenversicherung</title>
+</head_merge>
+
 #### Sind Sie privat krankenversichert und haben Interesse an einem Tarifwechsel? 
 
 Drei Webseiten sollten Sie kennen:
 
 #### 1. <a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank">Hintergründe</a> zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:
 <ul>
-  <li>Beitragssteigerungen, die über Jahre hinaus deutlich über der medizinisch-technischen Inflationsrate von vier Prozent liegen, ist ein klarer Hinweis auf ein erodierendes Tarifkollektiv.
-  <li>Versicherungen haben das Thema lange Zeit totgeschwiegen.
-  <li>Es gibt viele Tarifoptimierer, ihr Honorar bemisst sich am erzielten Erfolg und liegt zwischen einer halben und einer ganzen Jahresersparnis.
-  <li>Viele ehemalige Makler, die wegen des zuletzt flauen Geschäftes kaum noch Neukunden finden, sehen im Tarifwechsel eine Chance.
-  <li>Die Ex-Makler verfügen nicht über Kenntnisse in Versicherungsmathematik.
-  <li>Fordern Sie ein schriftliches Gutachten.
-  <li>Empfohlene Tarife sollen nicht nur günstiger, sondern auch langfristig beitragsstabil sein.
+  <li>Beitragssteigerungen, die über Jahre hinaus deutlich über der medizinisch-technischen Inflationsrate von vier Prozent liegen, ist ein klarer Hinweis auf ein erodierendes Tarifkollektiv.</li>
+  <li>Versicherungen haben das Thema lange Zeit totgeschwiegen.</li>
+  <li>Es gibt viele Tarifoptimierer, ihr Honorar bemisst sich am erzielten Erfolg und liegt zwischen einer halben und einer ganzen Jahresersparnis.</li>
+  <li>Viele ehemalige Makler, die wegen des zuletzt flauen Geschäftes kaum noch Neukunden finden, sehen im Tarifwechsel eine Chance.</li>
+  <li>Die Ex-Makler verfügen nicht über Kenntnisse in Versicherungsmathematik.</li>
+  <li>Fordern Sie ein schriftliches Gutachten.</li>
+  <li>Empfohlene Tarife sollen nicht nur günstiger, sondern auch langfristig beitragsstabil sein.</li>
 </ul>
 
 Lesen Sie selber unter diesem <a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank">Link</a>.
@@ -29,14 +33,14 @@ Lesen Sie selber unter diesem <a href="http://www.finanztip.de/pkv-tarif-wechsel
 <ul>
   <li>Der este <a href="https://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Rechtsberater für PKV-Kunden in Deutschland.
   <li>Notwendige <a href="https://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Expertise und mehr als 25 Jahre Insider- und Führungserfahrung in verschiedenen Versicherungsunternehmen.
-  <li>Weder Makler noch Ex-Makler, sondern ehemalige Führungskräfte Versicherungsunternehmen und Versicherungsmathematiker: 
+  <li>Weder Makler noch Ex-Makler, sondern ehemalige Führungskräfte Versicherungsunternehmen und Versicherungsmathematiker:</li>
     <ul>
-      <li>sie wissen wie, wann und warum neue Tarife eingeführt werden;
-      <li>sie wissen wie Tarife kalkuliert und warum sie angepasst werden;
-      <li>sie wissen welcher Tarif ausgerechnet für Sie besser ist und auch warum dies so ist.
+      <li>sie wissen wie, wann und warum neue Tarife eingeführt werden;</li>
+      <li>sie wissen wie Tarife kalkuliert und warum sie angepasst werden;</li>
+      <li>sie wissen welcher Tarif ausgerechnet für Sie besser ist und auch warum dies so ist.</li>
     </ul>
-  <li>Wenn der neue Tarif bessere Leistungen enthält - trotz Minderbeitrag - wird auf diese nicht verzichtet; im Gegenteil: sie werden angestrebt.
-  <li>Der Komplett-Service mit dem besten Preis-Leistungs-Verhältnis: Wenn Sie sich für den Tarifwechsel entscheiden, beträgt das Honorar einmalig 50 % der Jahresersparnis zzgl. 19 % MwSt. Grundlage ist die tatsächliche Ersparnis an „Versicherungskosten" eines Jahres und nicht nur die Beitragsveränderung.
+  <li>Wenn der neue Tarif bessere Leistungen enthält - trotz Minderbeitrag - wird auf diese nicht verzichtet; im Gegenteil: sie werden angestrebt.</li>
+  <li>Der Komplett-Service mit dem besten Preis-Leistungs-Verhältnis: Wenn Sie sich für den Tarifwechsel entscheiden, beträgt das Honorar einmalig 50 % der Jahresersparnis zzgl. 19 % MwSt. Grundlage ist die tatsächliche Ersparnis an „Versicherungskosten" eines Jahres und nicht nur die Beitragsveränderung.</li>
 </ul>
 Erfahren Sie mehr unter diesem <a href="https://www.minerva-kundenrechte.de/unsere-leistung/kompetenz-service?ref=TelegramGS" target="_blank">Link</a>.
 
