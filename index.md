@@ -1,5 +1,3 @@
-<head><title>Tarifwechsel in privater Krankenversicherung</title></head>
-
 #### Sind Sie privat krankenversichert und haben Interesse an einem Tarifwechsel? 
 
 Drei Webseiten sollten Sie kennen:
