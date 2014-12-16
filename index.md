@@ -2,11 +2,11 @@
 <title>Tarifwechsel in privater Krankenversicherung</title>
 </head_merge>
 
-#### Sind Sie privat krankenversichert und haben Interesse an einem Tarifwechsel? 
+#### Sind Sie privat krankenversichert und haben Interesse an einem Tarifwechsel? ####
 
 Drei Webseiten sollten Sie kennen:
 
-#### 1. <a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank">Hintergründe</a> zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:
+#### 1. <a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank">Hintergründe</a> zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:###
 
 * Beitragssteigerungen, die über Jahre hinaus deutlich über der medizinisch-technischen Inflationsrate von vier Prozent liegen, ist ein klarer Hinweis auf ein erodierendes Tarifkollektiv.
 * Versicherungen haben das Thema lange Zeit totgeschwiegen.
@@ -18,7 +18,7 @@ Drei Webseiten sollten Sie kennen:
 
 Lesen Sie selber unter diesem <a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank">Link</a>.
 
-#### 2. <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:
+#### 2. <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:###
 
 * Durch einen Tarifwechsel können Sie Ihre Beiträge eventuell deutlich senken, ohne auf wichtige Leistungen zu verzichten.
 * Ein Tarifwechsel lohnt sich vor allem für ältere, langjährig PKV-Versicherte.
@@ -27,16 +27,16 @@ Lesen Sie selber unter diesem <a href="http://www.brandeins.de/archiv/2014/im-in
   <a href="https://www.minerva-kundenrechte.de?ref=TelegramGS" target="_blank">Minerva KundenRechte</a>.
 Lesen Sie selber unter diesem <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Link</a>.
 
-#### 3. <a href="http://www.minerva-kundenrechte.de" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner <a href="https://www.minerva-kundenrechte.de?ref=TelegramGS">Webseite</a>
+#### 3. <a href="http://www.minerva-kundenrechte.de" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner <a href="https://www.minerva-kundenrechte.de?ref=TelegramGS">Webseite</a> ####
 
 * Der este <a href="https://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Rechtsberater für PKV-Kunden in Deutschland.
 * Notwendige <a href="https://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Expertise und mehr als 25 Jahre Insider- und Führungserfahrung in verschiedenen Versicherungsunternehmen.
 * Weder Makler noch Ex-Makler, sondern ehemalige Führungskräfte Versicherungsunternehmen und Versicherungsmathematiker:
-    <ul>
-      <li>sie wissen wie, wann und warum neue Tarife eingeführt werden;</li>
-      <li>sie wissen wie Tarife kalkuliert und warum sie angepasst werden;</li>
-      <li>sie wissen welcher Tarif ausgerechnet für Sie besser ist und auch warum dies so ist.</li>
-    </ul>
+
+      + sie wissen wie, wann und warum neue Tarife eingeführt werden;
+      + sie wissen wie Tarife kalkuliert und warum sie angepasst werden;
+      + sie wissen welcher Tarif ausgerechnet für Sie besser ist und auch warum dies so ist.
+  
 * Wenn der neue Tarif bessere Leistungen enthält - trotz Minderbeitrag - wird auf diese nicht verzichtet; im Gegenteil: sie werden angestrebt.</li>
 * Der Komplett-Service mit dem besten Preis-Leistungs-Verhältnis: Wenn Sie sich für den Tarifwechsel entscheiden, beträgt das Honorar einmalig 50 % der Jahresersparnis zzgl. 19 % MwSt. Grundlage ist die tatsächliche Ersparnis an „Versicherungskosten" eines Jahres und nicht nur die Beitragsveränderung.</li>
 
