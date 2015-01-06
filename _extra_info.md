@@ -1,5 +1,5 @@
-template_url: ~/PKV-Wissen/template-blue/template-blue.git
+template_url: /template1/template-blue.git
 site-title: Tarifwechsel in privater Krankenversicherung
 title: Tarifwechsel in privater Krankenversicherung
 
-templates-hidden/_extra_info.md
+template1/templates-hidden/_extra_info.md
