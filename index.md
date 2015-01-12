@@ -14,14 +14,14 @@ Drei Webseiten sollten Sie kennen:
 
 Lesen Sie selber unter diesem <a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank">Link</a>.
 
-#### 2. <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:###
+#### 2. <a href="http://www.finanztip.de/pkv-tarif-wechsel/?utm_source=Kooperation&utm_medium=Minerva&utm_campaign=Website?ref=TelegramGS" target="_blank">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:###
 
 * Durch einen Tarifwechsel können Sie Ihre Beiträge eventuell deutlich senken, ohne auf wichtige Leistungen zu verzichten.
 * Ein Tarifwechsel lohnt sich vor allem für ältere, langjährig PKV-Versicherte.
 * Beim Tarifwechsel brauchen Sie die Hilfe eines Versicherungsberaters.
 * Wählen Sie für ein erfolgsabhängiges Honorar den Versicherungsberater 
   <a href="https://www.minerva-kundenrechte.de?ref=TelegramGS" target="_blank">Minerva KundenRechte</a>.
-Lesen Sie selber unter diesem <a href="http://www.finanztip.de/pkv-tarif-wechsel" target="_blank">Link</a>.
+Lesen Sie selber unter diesem <a href="http://www.finanztip.de/pkv-tarif-wechsel/?utm_source=Kooperation&utm_medium=Minerva&utm_campaign=Website?ref=TelegramGS" target="_blank">Link</a>.
 
 #### 3. <a href="http://www.minerva-kundenrechte.de" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner <a href="https://www.minerva-kundenrechte.de?ref=TelegramGS">Webseite</a> ####
 
