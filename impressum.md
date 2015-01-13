@@ -29,11 +29,14 @@
 #### Schlichtungsstellen: 
 
 * Versicherungsombudsmann e.V.
-  + Postfach 08 06 32
-  + 10006 Berlin
+
+      + Postfach 08 06 32
+      + 10006 Berlin
+
 * Ombudsmann für die private Kranken-/Pflegeversicherung 
-  + Postfach 06 02 22
-  + 10052 Berlin
+
+      + Postfach 06 02 22
+      + 10052 Berlin
 
 #### Berufsrechtliche Regelungen:
 * § 34e GewO, § 68 VVG, VersVermV
