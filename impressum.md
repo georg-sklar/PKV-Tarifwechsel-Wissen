@@ -6,7 +6,7 @@
 * Fon (0 89) 230 695 111
 * Fax (0 89) 700 74 317
 * <mail@minerva-kundenrechte.de>
-* [www.minerva-kundenrechte.de](www.minerva-kundenrechte.de)
+* [www.minerva-kundenrechte.de](http://www.minerva-kundenrechte.de)
 
 #### Geschäftsführer:
 * Nicola Ferrarese, Dipl.-Wirtsch.-Ing.
@@ -23,7 +23,7 @@
 * Deutscher Industrie- und Handelskammertag (DIHK) e.V. 
 * Breite Straße 29, 10178 Berlin 
 * Registrierungsnummer: D-YO61-0XRQP-99
-* [www.vermittlerregister.info](www.vermittlerregister.info)
+* [www.vermittlerregister.info](http://www.vermittlerregister.info)
 
 #### Schlichtungsstellen: 
 
