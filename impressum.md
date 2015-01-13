@@ -3,8 +3,8 @@
 #### Minerva KundenRechte GmbH
 * Bavariafilmplatz 7
 * 82031 Grünwald
-* Fon: (0 89) 230 695 111
-* Fax: (0 89) 700 74 317
+* Fon: (089) 230 695 111
+* Fax: (089) 700 74 317
 * eMail: mail@minerva-kundenrechte.de
 * [www.minerva-kundenrechte.de](http://www.minerva-kundenrechte.de)
 
@@ -21,7 +21,8 @@
 
 #### Registerstelle: 
 * Deutscher Industrie- und Handelskammertag (DIHK) e.V. 
-* Breite Straße 29, 10178 Berlin 
+* Breite Straße 29
+* 10178 Berlin 
 * Registrierungsnummer: D-YO61-0XRQP-99
 * [www.vermittlerregister.info](http://www.vermittlerregister.info)
 
