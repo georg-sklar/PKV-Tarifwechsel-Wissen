@@ -6,7 +6,7 @@
 * Fon: (089) 230 695 111
 * Fax: (089) 700 74 317
 * eMail: mail@minerva-kundenrechte.de
-* [www.minerva-kundenrechte.de](http://www.minerva-kundenrechte.de)
+* [www.minerva-kundenrechte.de](http://www.minerva-kundenrechte.de?ref=TelegramGS)
 
 #### Geschäftsführer:
 * Nicola Ferrarese, Dipl.-Wirtsch.-Ing.
@@ -33,7 +33,7 @@
     + 10006 Berlin
 * Ombudsmann für die private Kranken-/Pflegeversicherung 
     + Postfach 06 02 22
-    + + 10052 Berlin
+    + 10052 Berlin
 
 #### Berufsrechtliche Regelungen:
 * § 34e GewO, § 68 VVG, VersVermV
