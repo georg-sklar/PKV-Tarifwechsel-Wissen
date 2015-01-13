@@ -1,6 +1,6 @@
 ### Versicherungsbetriebliches und -mathematisches Wissen: Fragen und Antworten
 
-#### Warum nicht einfach den PKV Versichererwechseln?
+#### Warum nicht einfach den PKV Versicherer wechseln?
 * Für langjährig Privatversicherte macht der Verlust der so genannten Altersrückstellungen, 
 die gerade im Alter für einen moderaten Anstieg der Beiträge sorgen sollen, 
 den Wechsel zu einem anderen Versicherer unattraktiv. 
@@ -18,7 +18,20 @@ Gesundheitszustand wirkt nicht verhindernd auf den Tarifwechsel.
 * Grundsätzlich gilt: Unabhängig davon bei welcher Versicherungsgesellschaft eine Kranken-Vollversicherung besteht, 
 lohnt sich eine Prüfung, ob ein gleichwertiger, aber günstigerer Tarif innerhalb des eigenen PKV Versicherers vorhanden ist. Gerade wenn der Versicherer in den letzten Jahren die Beiträge im eigenen Tarif stark angehoben hat bestehen große Chancen, dass ein gleichwertiger aber günstigerer bzw. bei­trags­sta­bilerer Tarif verfügbar ist.
 * Die meisten Mandanten der Minerva KundenRechte sind bei den folgenden PKV Versicherern privatversichert: 
-Allianz, AXA, Barmenia, Bayerische Beamtenkrankenkasse (BBKK), Central, Deutscher Ring, DKV, Gothaer, HALLESCHE, Inter, Münchener Verein, Signal Iduna, UniVersa, UKV.
+    + **Allianz**
+    + AXA
+    + Barmenia
+    + Bayerische Beamtenkrankenkasse (BBKK)
+    + Central
+    + Deutscher Ring
+    + DKV
+    + Gothaer
+    + HALLESCHE
+    + Inter
+    + Münchener Verein
+    + Signal Iduna
+    + UniVersa
+    + UKV.
 
 #### Wozu brauche ich Hilfe, kann ich das nicht einfach selbst machen?
 * Vielen Versicherern ist das Tarif­wechsel­recht ein Dorn im Auge. Versicherer haben naturgemäß wenig Interesse, die selben Leistungen für weniger Geld zu gewähren. Der Versicherer ist vielmehr Partei mit eigenen Interessen und macht es dem Wechselwilligen außerordentlich schwer. Den PKV Kunden werden auf Anfrage keine sinnvollen Tarife vorgeschlagen. Wenn der PKV Kunde nicht explizit den für ihn sinnvollsten Tarif benennen kann, bekommt er systematisch diesen vom Versicherer nahezu nie genannt.
