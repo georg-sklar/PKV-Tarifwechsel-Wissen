@@ -1,7 +1,6 @@
 
 site-title: Tarifwechsel in privater Krankenversicherung
 title: Tarifwechsel in privater Krankenversicherung
-menu-title: Impressum
+menu-title: Menu
 
-_extra_info.md
 
