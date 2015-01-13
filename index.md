@@ -2,7 +2,7 @@
 
 Drei Webseiten sollten Sie kennen:
 
-#### 1. [Hintergründe]("http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target=") zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:###
+#### 1. [Hintergründe]("http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank") zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:###
 
 * Beitragssteigerungen, die über Jahre hinaus deutlich über der medizinisch-technischen Inflationsrate von vier Prozent liegen, ist ein klarer Hinweis auf ein erodierendes Tarifkollektiv.
 * Versicherungen haben das Thema lange Zeit totgeschwiegen.
@@ -14,7 +14,7 @@ Drei Webseiten sollten Sie kennen:
 
 Lesen Sie selber unter diesem [Link]("http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank").
 
-#### 2. <a href="http://www.finanztip.de/pkv-tarif-wechsel/?utm_source=Kooperation&utm_medium=Minerva&utm_campaign=Website?ref=TelegramGS" target="_blank">Vergleich: </a> Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:###
+#### 2. [Vergleich:]("http://www.finanztip.de/pkv-tarif-wechsel/?utm_source=Kooperation&utm_medium=Minerva&utm_campaign=Website?ref=TelegramGS" target="_blank") Finanztip vergleicht Tarifwechsel-Berater und kommt zu einer klaren Empfehlung:###
 
 * Durch einen Tarifwechsel können Sie Ihre Beiträge eventuell deutlich senken, ohne auf wichtige Leistungen zu verzichten.
 * Ein Tarifwechsel lohnt sich vor allem für ältere, langjährig PKV-Versicherte.
@@ -22,9 +22,9 @@ Lesen Sie selber unter diesem [Link]("http://www.brandeins.de/archiv/2014/im-int
 * Wählen Sie für ein erfolgsabhängiges Honorar den Versicherungsberater 
   <a href="https://www.minerva-kundenrechte.de?ref=TelegramGS" target="_blank">Minerva KundenRechte</a>.
 
-Lesen Sie selber unter diesem <a href="http://www.finanztip.de/pkv-tarif-wechsel/?utm_source=Kooperation&utm_medium=Minerva&utm_campaign=Website?ref=TelegramGS" target="_blank">Link</a>.
+Lesen Sie selber unter diesem [Link]("http://www.finanztip.de/pkv-tarif-wechsel/?utm_source=Kooperation&utm_medium=Minerva&utm_campaign=Website?ref=TelegramGS" target="_blank").
 
-#### 3. <a href="http://www.minerva-kundenrechte.de" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner <a href="https://www.minerva-kundenrechte.de?ref=TelegramGS">Webseite</a> ####
+#### 3. <a href="http://www.minerva-kundenrechte.de" target="_blank">Der Berater</a> mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner <a href="https://www.minerva-kundenrechte.de?ref=TelegramGS" target="_blank">Webseite</a> ####
 
 * Der erste <a href="https://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Rechtsberater für PKV-Kunden in Deutschland.
 * Notwendige <a href="https://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS" target="_blank">aktuarielle</a> Expertise und mehr als 25 Jahre Insider- und Führungserfahrung in verschiedenen Versicherungsunternehmen.
