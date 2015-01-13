@@ -40,5 +40,5 @@ Erfahren Sie mehr unter diesem <a href="https://www.minerva-kundenrechte.de/unse
 
 Wenn Sie privat krankenversichert sind und Ihr Beitrag ist stark gestiegen, handeln Sie besser bald. 
 Ihr PKV-Versicherer wünscht allerdings, dass Sie nicht handeln und Beitrag über Beitrag weiter überweisen.
-###### Seien Sie schlau.
+**Seien Sie schlau.**
 
