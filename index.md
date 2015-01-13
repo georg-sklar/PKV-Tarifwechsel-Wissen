@@ -10,7 +10,7 @@ Drei Webseiten sollten Sie kennen:
 * Viele ehemalige Makler, die wegen des zuletzt flauen Geschäftes kaum noch Neukunden finden, sehen im Tarifwechsel eine Chance.
 * Die Ex-Makler verfügen nicht über Kenntnisse in Versicherungsmathematik.
 * Fordern Sie ein schriftliches Gutachten.
-*Empfohlene Tarife sollen nicht nur günstiger, sondern auch langfristig beitragsstabil sein.
+* Empfohlene Tarife sollen nicht nur günstiger, sondern auch langfristig beitragsstabil sein.
 
 Lesen Sie selber unter diesem <a href="http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel" target="_blank">Link</a>.
 
