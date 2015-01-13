@@ -1,6 +1,6 @@
-##### Minerva KundenRechte GmbH: Impressum
+### Minerva KundenRechte GmbH: Impressum
 
-### Minerva KundenRechte GmbH
+#### Minerva KundenRechte GmbH
 * Bavariafilmplatz 7
 * 82031 Grünwald
 * Fon (0 89) 230 695 111
@@ -8,30 +8,30 @@
 * mail@minerva-kundenrechte.de
 * www.minerva-kundenrechte.de
 
-### Geschäftsführer:
+#### Geschäftsführer:
 * ###### Nicola Ferrarese
 , Dipl.-Wirtsch.-Ing.
 * ###### Dr. Björn Lenz
 , Aktuar DAV, Dipl.-Mathematiker, Dipl.-Kaufmann
 
-### Handelsregister:
+#### Handelsregister:
 HRB 19 73 76, Amtsgericht München
 
-### Versicherungsberater mit Erlaubnis nach § 34e (1) GewO erteilt durch die IHK München/Oberbayern
+#### Versicherungsberater mit Erlaubnis nach § 34e (1) GewO erteilt durch die IHK München/Oberbayern
 
-### Registerstelle: 
+#### Registerstelle: 
 * Deutscher Industrie- und Handelskammertag (DIHK) e.V. 
 * Breite Straße 29, 10178 Berlin 
 * Registrierungsnummer: D-YO61-0XRQP-99
 * www.vermittlerregister.info
 
-### Schlichtungsstellen: 
+#### Schlichtungsstellen: 
 * Versicherungsombudsmann e.V.
 * Postfach 08 06 32, 10006 Berlin
 
-### Ombudsmann für die private Kranken-/Pflegeversicherung 
+#### Ombudsmann für die private Kranken-/Pflegeversicherung 
 *Postfach 06 02 22
 * 10052 Berlin
 
-### Berufsrechtliche Regelungen:
+#### Berufsrechtliche Regelungen:
 * § 34e GewO, § 68 VVG, VersVermV
