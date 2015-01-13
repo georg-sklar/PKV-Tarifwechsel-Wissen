@@ -9,15 +9,15 @@
 * www.minerva-kundenrechte.de
 
 #### Geschäftsführer:
-* ###### Nicola Ferrarese
-, Dipl.-Wirtsch.-Ing.
-* ###### Dr. Björn Lenz
-, Aktuar DAV, Dipl.-Mathematiker, Dipl.-Kaufmann
+* Nicola Ferrarese, Dipl.-Wirtsch.-Ing.
+* Dr. Björn Lenz, Aktuar DAV, Dipl.-Mathematiker, Dipl.-Kaufmann
 
 #### Handelsregister:
-HRB 19 73 76, Amtsgericht München
+* HRB 19 73 76
+* Amtsgericht München
 
-#### Versicherungsberater mit Erlaubnis nach § 34e (1) GewO erteilt durch die IHK München/Oberbayern
+#### Versicherungsberater 
+* mit Erlaubnis nach § 34e (1) GewO erteilt durch die IHK München/Oberbayern
 
 #### Registerstelle: 
 * Deutscher Industrie- und Handelskammertag (DIHK) e.V. 
@@ -26,12 +26,12 @@ HRB 19 73 76, Amtsgericht München
 * www.vermittlerregister.info
 
 #### Schlichtungsstellen: 
-* Versicherungsombudsmann e.V.
-* Postfach 08 06 32, 10006 Berlin
 
-#### Ombudsmann für die private Kranken-/Pflegeversicherung 
-*Postfach 06 02 22
-* 10052 Berlin
+* Versicherungsombudsmann e.V.
+** Postfach 08 06 32, 10006 Berlin
+* Ombudsmann für die private Kranken-/Pflegeversicherung 
+** Postfach 06 02 22
+** 10052 Berlin
 
 #### Berufsrechtliche Regelungen:
 * § 34e GewO, § 68 VVG, VersVermV
