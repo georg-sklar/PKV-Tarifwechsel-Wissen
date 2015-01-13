@@ -2,7 +2,7 @@
 
 Drei Webseiten sollten Sie kennen:
 
-#### 1. [Hintergründe](http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel){:target="_blank"} zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:###
+#### 1. [Hintergründe](http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel) zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:###
 
 * Beitragssteigerungen, die über Jahre hinaus deutlich über der medizinisch-technischen Inflationsrate von vier Prozent liegen, ist ein klarer Hinweis auf ein erodierendes Tarifkollektiv.
 * Versicherungen haben das Thema lange Zeit totgeschwiegen.
