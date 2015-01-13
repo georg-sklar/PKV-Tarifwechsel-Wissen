@@ -1,4 +1,4 @@
-### Tarifwechsel in Privater Krankenversicherung: Fragen und Antworten
+### Versicherungsbetriebliches und -mathematisches Wissen: Fragen und Antworten
 
 #### Warum nicht einfach den PKV Versichererwechseln?
 * Für langjährig Privatversicherte macht der Verlust der so genannten Altersrückstellungen, 
