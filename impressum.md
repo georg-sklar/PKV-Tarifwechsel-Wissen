@@ -9,8 +9,10 @@
 * www.minerva-kundenrechte.de
 
 ### Geschäftsführer:
-* ##### Nicola Ferrarese, Dipl.-Wirtsch.-Ing.
-* ###### Dr. Björn Lenz, Aktuar DAV, Dipl.-Mathematiker, Dipl.-Kaufmann
+* ###### Nicola Ferrarese
+, Dipl.-Wirtsch.-Ing.
+* ###### Dr. Björn Lenz
+, Aktuar DAV, Dipl.-Mathematiker, Dipl.-Kaufmann
 
 ### Handelsregister:
 HRB 19 73 76, Amtsgericht München
