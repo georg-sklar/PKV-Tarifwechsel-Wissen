@@ -3,9 +3,9 @@
 #### Minerva KundenRechte GmbH
 * Bavariafilmplatz 7
 * 82031 Grünwald
-* Fon (0 89) 230 695 111
-* Fax (0 89) 700 74 317
-* _mail@minerva-kundenrechte.de_
+* Fon: (0 89) 230 695 111
+* Fax: (0 89) 700 74 317
+* eMail: mail@minerva-kundenrechte.de
 * [www.minerva-kundenrechte.de](http://www.minerva-kundenrechte.de)
 
 #### Geschäftsführer:
