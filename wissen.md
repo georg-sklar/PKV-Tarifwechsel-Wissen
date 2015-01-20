@@ -18,7 +18,7 @@ Gesundheitszustand wirkt nicht verhindernd auf den Tarifwechsel.
 * Grundsätzlich gilt: Unabhängig davon bei welcher Versicherungsgesellschaft eine Kranken-Vollversicherung besteht, 
 lohnt sich eine Prüfung, ob ein gleichwertiger, aber günstigerer Tarif innerhalb des eigenen PKV Versicherers vorhanden ist. Gerade wenn der Versicherer in den letzten Jahren die Beiträge im eigenen Tarif stark angehoben hat bestehen große Chancen, dass ein gleichwertiger aber günstigerer bzw. bei­trags­sta­bilerer Tarif verfügbar ist.
 * Die meisten Mandanten der Minerva KundenRechte sind bei den folgenden PKV Versicherern privatversichert: 
-    + **Allianz**
+    + [**Allianz**](www.http://minerva-kundenrechte.de/PKV/Tarifwechsel-Allianz)
     + **AXA**
     + **Barmenia**
     + **Bayerische Beamtenkrankenkasse (BBKK)**
