@@ -18,19 +18,19 @@ Gesundheitszustand wirkt nicht verhindernd auf den Tarifwechsel.
 * Grundsätzlich gilt: Unabhängig davon bei welcher Versicherungsgesellschaft eine Kranken-Vollversicherung besteht, 
 lohnt sich eine Prüfung, ob ein gleichwertiger, aber günstigerer Tarif innerhalb des eigenen PKV Versicherers vorhanden ist. Gerade wenn der Versicherer in den letzten Jahren die Beiträge im eigenen Tarif stark angehoben hat bestehen große Chancen, dass ein gleichwertiger aber günstigerer bzw. bei­trags­sta­bilerer Tarif verfügbar ist.
 * Die meisten Mandanten der Minerva KundenRechte sind bei den folgenden PKV Versicherern privatversichert: 
-    + [**Allianz**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Allianz?ref=TelegramGS)
-    + [**AXA**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-AXA?ref=TelegramGS)
-    + [**Barmenia**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Barmenia?ref=TelegramGS)
-    + [**Bayerische Beamtenkrankenkasse (BBKK)**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-BBKK?ref=TelegramGS)
-    + [**Central**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Central?ref=TelegramGS)
-    + [**Deutscher Ring**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Deutscher-Ring?ref=TelegramGS)
-    + [**DKV**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-DKV?ref=TelegramGS)
-    + [**Gothaer**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Gothaer?ref=TelegramGS)
-    + [**HALLESCHE**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-HALLESCHE?ref=TelegramGS)
-    + [**Inter**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Inter?ref=TelegramGS)
-    + [**Münchener Verein**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Muenchener-Verein?ref=TelegramGS)
-    + [**Signal Iduna**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Signal?ref=TelegramGS)
-    + [**UKV**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-UKV?ref=TelegramGS).
+    + [**Allianz**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Allianz?ref=TelegramGS)
+    + [**AXA**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-AXA?ref=TelegramGS)
+    + [**Barmenia**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Barmenia?ref=TelegramGS)
+    + [**Bayerische Beamtenkrankenkasse (BBKK)**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-BBKK?ref=TelegramGS)
+    + [**Central**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Central?ref=TelegramGS)
+    + [**Deutscher Ring**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Deutscher-Ring?ref=TelegramGS)
+    + [**DKV**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-DKV?ref=TelegramGS)
+    + [**Gothaer**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Gothaer?ref=TelegramGS)
+    + [**HALLESCHE**](httsp://www.minerva-kundenrechte.de/PKV/Tarifwechsel-HALLESCHE?ref=TelegramGS)
+    + [**Inter**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Inter?ref=TelegramGS)
+    + [**Münchener Verein**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Muenchener-Verein?ref=TelegramGS)
+    + [**Signal Iduna**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Signal?ref=TelegramGS)
+    + [**UKV**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-UKV?ref=TelegramGS).
 
 #### Wozu brauche ich Hilfe, kann ich das nicht einfach selbst machen?
 * Vielen Versicherern ist das Tarif­wechsel­recht ein Dorn im Auge. Versicherer haben naturgemäß wenig Interesse, die selben Leistungen für weniger Geld zu gewähren. Der Versicherer ist vielmehr Partei mit eigenen Interessen und macht es dem Wechselwilligen außerordentlich schwer. Den PKV Kunden werden auf Anfrage keine sinnvollen Tarife vorgeschlagen. Wenn der PKV Kunde nicht explizit den für ihn sinnvollsten Tarif benennen kann, bekommt er systematisch diesen vom Versicherer nahezu nie genannt.
