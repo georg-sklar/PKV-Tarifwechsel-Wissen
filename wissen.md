@@ -23,7 +23,7 @@ lohnt sich eine Prüfung, ob ein gleichwertiger, aber günstigerer Tarif innerha
     + [**Barmenia**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Barmenia?ref=TelegramGS)
     + [**Bayerische Beamtenkrankenkasse (BBKK)**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-BBKK?ref=TelegramGS)
     + [**Central**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Central?ref=TelegramGS)
-    + [**Deutscher Ring**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-DeutscherRing?ref=TelegramGS)
+    + [**Deutscher Ring**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Deutscher-Ring?ref=TelegramGS)
     + [**DKV**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-DKV?ref=TelegramGS)
     + [**Gothaer**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Gothaer?ref=TelegramGS)
     + [**HALLESCHE**](http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-HALLESCHE?ref=TelegramGS)
