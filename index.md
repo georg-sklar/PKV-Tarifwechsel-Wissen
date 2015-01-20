@@ -24,7 +24,7 @@ Lesen Sie selber unter diesem [Link](http://www.brandeins.de/archiv/2014/im-inte
 
 Lesen Sie selber unter diesem [Link](http://www.finanztip.de/pkv-tarif-wechsel/?utm_source=Kooperation&utm_medium=Minerva&utm_campaign=Website?ref=TelegramGS).
 
-#### 3. [Der Berater](http://www.minerva-kundenrechte.de?ref=TelegramGS) mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner [Webseite](https://www.minerva-kundenrechte.de?ref=TelegramGS) ####
+#### 3. [Der Berater](https://www.minerva-kundenrechte.de?ref=TelegramGS) mit der nachvollziehbar größten Expertise behandelt viele Details auf seiner [Webseite](https://www.minerva-kundenrechte.de?ref=TelegramGS) ####
 
 * Der erste [aktuarielle](https://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS) Rechtsberater für PKV-Kunden in Deutschland.
 * Notwendige [aktuarielle](https://www.minerva-kundenrechte.de/kompetente-unterstuetzung-beim-tarifwechsel-zahlt-sich-aus/was-ist-ein-aktuar-dav?ref=TelegramGS) Expertise und mehr als 25 Jahre Insider- und Führungserfahrung in verschiedenen Versicherungsunternehmen.
