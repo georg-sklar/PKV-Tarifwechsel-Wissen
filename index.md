@@ -4,7 +4,7 @@ Drei Webseiten sollten Sie kennen:
 
 #### 1. [Hintergründe](http://www.brandeins.de/archiv/2014/im-interesse-des-kunden/wechsel-private-krankenversicherung-im-dschungel) zum Tarifwechsel journalistisch angenehm lesbar aufbereitet:###
 
-* Beitragssteigerungen, die über Jahre hinaus deutlich über der medizinisch-technischen Inflationsrate von vier Prozent liegen, ist ein klarer Hinweis auf ein erodierendes Tarifkollektiv.
+* Beitragssteigerungen, die über Jahre hinaus deutlich über der medizinisch-technischen Inflationsrate von vier Prozent liegen, sind ein klarer Hinweis auf ein erodierendes Tarifkollektiv.
 * Versicherungen haben das Thema lange Zeit totgeschwiegen.
 * Es gibt viele Tarifoptimierer, ihr Honorar bemisst sich am erzielten Erfolg und liegt zwischen einer halben und einer ganzen Jahresersparnis.
 * Viele ehemalige Makler, die wegen des zuletzt flauen Geschäftes kaum noch Neukunden finden, sehen im Tarifwechsel eine Chance.
