@@ -1,4 +1,4 @@
-PKV-Wissen
-==========
+PKV-Tarifwechsel-Wissen
+=======================
 
 Informationen über Private Krankenversicherung
