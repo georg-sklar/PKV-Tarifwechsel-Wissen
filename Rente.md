@@ -1,8 +1,10 @@
 ### Rente und Private Krankenversicherung: Fragen und Antworten
 
+#### Beitrag steigt, Rente kommt: Viele Privat-Krankenversicherte fragen sich, wie es weiter geht
+
 #### Welche Änderungen ergeben sich beim Renteneintritt:
 * Bei Arbeitnhemern fällt der Arbeitgeber-Zuschuss weg;
-* Zuschuss der Rentenversicherung - dieser ist zusammen mit der Rente zu beantragen - beträgt die Hälfte Ihres PKV-Beitrags, maximal aber 7,3 % Ihrer Rente (die Hälfte des Beitragssatzes der GKV von 14,6 %);
+* Zuschuss der gesetzlichen Rentenversicherung - dieser ist zusammen mit der Rente zu beantragen - beträgt die Hälfte Ihres PKV-Beitrags, maximal aber 7,3 % Ihrer Rente (die Hälfte des Beitragssatzes der GKV von 14,6 %);
 * Da die Rentenhöhe (in der Regel) niedriger als der Arbeitslohn ist, bestehet die Gefahr, dass der maximale Renten-Zuschuss (7,3 % der Rente) weniger als die Hälfte Ihres PKV-Beitrags beträgt; damit zahlen Sie mehr als die Hälfte des PKV-Beitrags selbst; und dies bei geringerem Einkommen.
 
 #### Private Krankenversicherung: Kostenfalle oder nicht?
