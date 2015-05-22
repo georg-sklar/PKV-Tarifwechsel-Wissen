@@ -1,11 +1,13 @@
 ### Rente und Private Krankenversicherung: Fragen und Antworten
 
 #### Beitrag steigt, Rente kommt: Viele Privat-Krankenversicherte fragen sich, wie es weiter geht
+* Es gibt viele Irrtümer und Fallstricke;
+* Private Krankenversicherung sieht deutlich bessere Leistungen als die gesetzliche vor, und ist (in der Regel) günstiger als die gesetzliche.
 
 #### Welche Änderungen ergeben sich beim Renteneintritt:
 * Bei Arbeitnhemern fällt der Arbeitgeber-Zuschuss weg;
 * Zuschuss der gesetzlichen Rentenversicherung - dieser ist zusammen mit der Rente zu beantragen - beträgt die Hälfte Ihres PKV-Beitrags, maximal aber 7,3 % Ihrer Rente (die Hälfte des Beitragssatzes der GKV von 14,6 %);
-* Da die Rentenhöhe (in der Regel) niedriger als der Arbeitslohn ist, bestehet die Gefahr, dass der maximale Renten-Zuschuss (7,3 % der Rente) weniger als die Hälfte Ihres PKV-Beitrags beträgt; damit zahlen Sie mehr als die Hälfte des PKV-Beitrags selbst; und dies bei geringerem Einkommen.
+* Da die Rentenhöhe (in der Regel) niedriger als der Arbeitslohn ist, besteht die Gefahr, dass der maximale Renten-Zuschuss (7,3 % der Rente) weniger als die Hälfte Ihres PKV-Beitrags beträgt; damit zahlen Sie mehr als die Hälfte des PKV-Beitrags selbst; und dies bei geringerem Einkommen.
 
 #### Private Krankenversicherung: Kostenfalle oder nicht?
 * Man hört oft in den Medien, eine private Krankenversicherung könne den Ruin bedeuten. Man hört und staunt.
@@ -15,9 +17,7 @@ Ihnen einen Wechsel in den Basistarif oder in den Standarttarif empfiehlt, dann 
 nicht beraten, sondern verraten. Tun Sie das nicht! 
 * Sollte Ihr PKV-Beitrag zu hoch sein, dann kann der Grund dafür sein, dass sie in einem "kränkeren" Tarif sind.
 
-#### Möglichkeiten, den PKV-Beitrag zu reduzieren
-* Nach der Vollendung des 60. Lebensjahres entfällt der gesetzliche Zuschlag von 10 %.
+#### Möglichkeiten, den PKV-Beitrag zu reduzieren:
+* Nach der Vollendung des 60. Lebensjahres entfällt der gesetzliche Zuschlag von 10 %;
 * Der Beitrag für Krankentagegeld fällt beim Renteneintritt weg;
-
-#### Warum nicht in die gesetzliche Krankenversicherung (GKV) wechseln?
-
+* Tarifwechsel bringt aber meist die höchste Ersparnis.
