@@ -1,8 +1,10 @@
 ### Rente und Private Krankenversicherung: Fragen und Antworten
 
 #### Beitrag steigt, Rente kommt: Viele Privat-Krankenversicherte fragen sich, wie es weiter geht
-* Es gibt viele Irrtümer und Fallstricke;
 * Private Krankenversicherung sieht deutlich bessere Leistungen als die gesetzliche vor, und ist (in der Regel) günstiger als die gesetzliche.
+* Angst von steigendem Beitrag: Was tun? 
+* Standarttarif, Basistarif, Gesetzliche Krankenversicherung (GKV) als mögliche "Auswege"?
+* Es gibt viele Irrtümer und Fallstricke.
 
 #### Welche Änderungen ergeben sich beim Renteneintritt:
 * Bei Arbeitnhemern fällt der Arbeitgeber-Zuschuss weg;
