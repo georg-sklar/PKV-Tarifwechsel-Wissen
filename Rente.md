@@ -22,4 +22,4 @@ nicht beraten, sondern verraten. Tun Sie das nicht!
 #### Möglichkeiten, den PKV-Beitrag zu reduzieren:
 * Nach der Vollendung des 60. Lebensjahres entfällt der gesetzliche Zuschlag von 10 %;
 * Der Beitrag für Krankentagegeld fällt beim Renteneintritt weg;
-* Tarifwechsel bringt aber meist die höchste Ersparnis.
+* Tarifwechsel bringt aber meist die höchste Ersparnis, mehr erfahren Sie [hier](https://www.minerva-kundenrechte.de?ref=TelegramRente)
