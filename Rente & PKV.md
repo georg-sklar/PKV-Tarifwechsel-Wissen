@@ -1,4 +1,4 @@
-### Rente und Private Krankenvdersicherung: Fragen und Antworten
+### Rente und Private Krankenversicherung: Fragen und Antworten
 
 #### Wenn Arbeitgeber-Zuschuss wegfällt
 * 
