@@ -1,4 +1,4 @@
-### Minerva KundenRechte GmbH: Impressum
+## Minerva KundenRechte GmbH: Impressum
 
 #### Minerva KundenRechte GmbH
 * Bavariafilmplatz 7
