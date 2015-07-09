@@ -1,4 +1,4 @@
-### Rente und Private Krankenversicherung: Fragen und Antworten
+## Rente und Private Krankenversicherung: Fragen und Antworten
 
 #### Beitrag steigt, Rente kommt: Viele Privat-Krankenversicherte fragen sich, wie es weiter geht
 * Angst von steigendem Beitrag: Was tun? 
