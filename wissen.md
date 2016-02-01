@@ -26,7 +26,7 @@ lohnt sich eine Prüfung, ob ein gleichwertiger, aber günstigerer Tarif innerha
     + [**Deutscher Ring**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Deutscher-Ring?ref=TelegramGS)
     + [**DKV**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-DKV?ref=TelegramGS)
     + [**Gothaer**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Gothaer?ref=TelegramGS)
-    + [**HALLESCHE**](httsp://www.minerva-kundenrechte.de/PKV/Tarifwechsel-HALLESCHE?ref=TelegramGS)
+    + [**HALLESCHE**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-HALLESCHE?ref=TelegramGS)
     + [**Inter**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Inter?ref=TelegramGS)
     + [**Münchener Verein**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Muenchener-Verein?ref=TelegramGS)
     + [**Signal Iduna**](https://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Signal?ref=TelegramGS)
